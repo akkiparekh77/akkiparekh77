@@ -8,12 +8,16 @@ I'm Ankit Parekh !
 - <i>Currently:</i> Working as Lead Frontend Engineer in Talview. 
 - <i>Previously:</i> Frontend Manager at Codifyd Inc.
 
-<h2>💻 I'm Currently Developing</h2>
+<h2>💻 I'm Currently Developing and Working On Projects demanding knowledge of </h2>
 
-__University of Illinois at Chicago__
-- CS412 Introduction to Machine Learning
-- CS418 Introduction to Data Science
-- CS478 Software Development for Mobile Platforms
+
+- Angular
+- Typescript | Javascript
+- React
+- React Native
+- Node Js
+- Sockets
+- AWS 
 
 <h2> About Ankit⚡:</h2>
 
